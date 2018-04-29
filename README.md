@@ -2,4 +2,4 @@
 A model to predict Sentence Semantic Similarity on STS Benchmark Dataset
 
 # Training
-''' python train.py '''
+''' python model.py '''
